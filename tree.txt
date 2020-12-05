@@ -1,0 +1,17 @@
+.
+├── example.py
+├── LICENSE
+├── pyWhatsApp
+│   ├── __init__.py
+│   ├── interface.py
+│   ├── objects.py
+│   └── __pycache__
+│       ├── __init__.cpython-37.pyc
+│       ├── interface.cpython-37.pyc
+│       └── objects.cpython-37.pyc
+├── README.md
+├── requirements.in
+├── requirements.txt
+└── tree.txt
+
+2 directories, 12 files
